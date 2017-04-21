@@ -3,17 +3,20 @@
 I took this code and used it with out any major modifications to test our websocket connection to our Firebase Database. 
 
 ## Group 17 Code links
+
 https://github.com/davidafayjr/mapboxprototyping
+
 https://github.com/davidafayjr/RunningDog
+
 https://github.com/davidafayjr/droneSimulator
+
 https://github.com/davidafayjr/firebasewebsocket
+
 https://github.com/davidafayjr/easywsclient
+
 https://github.com/davidafayjr/cfcts_sketch
+
 https://github.com/GSBhub/cfcts_sketch
-
-
-
-
 
 
 easywsclient
